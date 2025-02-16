@@ -58,11 +58,18 @@ The dataset used is "twitter-airline-sentiment," containing a total of 14,640 re
 - Accuracy vs. Classifier
 - Training and Test Loss/Accuracy Graphs
 
+  
+![Image](https://github.com/user-attachments/assets/b4959dd1-ae73-4546-bb85-5b4408858388)
+
+![Image](https://github.com/user-attachments/assets/c4e7cca5-149f-4f39-87aa-e95c23f2cef0)
+
+
 ### Experiment Outcomes:
 - Random Forest proved to be the most reliable classifier with the highest accuracy and robustness.
 - The system effectively classified customer sentiment, providing valuable insights into customer feedback for business decision-making.
 
 
+![Image](https://github.com/user-attachments/assets/732551a8-f864-45c5-bf58-a856458a1277)
 
 
 ## Future Work
