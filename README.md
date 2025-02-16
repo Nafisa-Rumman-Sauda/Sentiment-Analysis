@@ -24,6 +24,13 @@ The dataset used is "twitter-airline-sentiment," containing a total of 14,640 re
 ### Data Preprocessing
 - The text data undergoes tokenization, cleaning, and conversion to numeric form for machine learning processing.
 - Word embeddings are used for preprocessing, converting text data into vectors that can be understood by machine learning models.
+- 
+![Image](https://github.com/user-attachments/assets/7c29e8bd-9716-4da3-82ac-ab0118350633)
+
+
+![Image](https://github.com/user-attachments/assets/447d5e97-77d8-4ead-b7fb-fe79dec60405)
+
+  
 
 ## Methodology
 
@@ -54,6 +61,9 @@ The dataset used is "twitter-airline-sentiment," containing a total of 14,640 re
 ### Experiment Outcomes:
 - Random Forest proved to be the most reliable classifier with the highest accuracy and robustness.
 - The system effectively classified customer sentiment, providing valuable insights into customer feedback for business decision-making.
+
+
+
 
 ## Future Work
 
